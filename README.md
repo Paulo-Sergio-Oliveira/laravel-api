@@ -26,7 +26,7 @@ A aplicação foi desenvolvida com os seguintes objetivos:
 ## ⚙️ Funcionalidades
 
 - [x] Modelagem e Seed do Banco de Dados
-- [] Versionamento e Definição de Rotas
+- [x] Versionamento e Definição de Rotas
 - [] Transformação de Dados do Banco em JSON
 - [] Filtragem de Dados
 - [] Filtragem Avançada de Dados
