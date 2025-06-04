@@ -28,7 +28,7 @@ A aplicação foi desenvolvida com os seguintes objetivos:
 - [x] Modelagem e Seed do Banco de Dados
 - [x] Versionamento e Definição de Rotas
 - [x] Transformação de Dados do Banco em JSON
-- [] Filtragem de Dados
+- [x] Filtragem de Dados
 - [] Filtragem Avançada de Dados
 - [] Inclusão de Dados Relacionados
 - [] Criação de Recursos com Requisições POST
