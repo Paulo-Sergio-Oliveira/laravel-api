@@ -30,7 +30,7 @@ A aplicação foi desenvolvida com os seguintes objetivos:
 - [x] Transformação de Dados do Banco em JSON
 - [x] Filtragem de Dados
 - [x] Filtragem Avançada de Dados
-- [] Inclusão de Dados Relacionados
+- [x] Inclusão de Dados Relacionados
 - [] Criação de Recursos com Requisições POST
 - [] Atualização de Dados com PUT e PATCH
 - [] Inserção em Massa (Bulk Insert)
