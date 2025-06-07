@@ -31,7 +31,7 @@ A aplicação foi desenvolvida com os seguintes objetivos:
 - [x] Filtragem de Dados
 - [x] Filtragem Avançada de Dados
 - [x] Inclusão de Dados Relacionados
-- [] Criação de Recursos com Requisições POST
+- [x] Criação de Recursos com Requisições POST
 - [] Atualização de Dados com PUT e PATCH
 - [] Inserção em Massa (Bulk Insert)
 - [] Proteção de Rotas com Laravel Sanctum
