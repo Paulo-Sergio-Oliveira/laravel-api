@@ -35,7 +35,7 @@ A aplicação foi desenvolvida com os seguintes objetivos:
 - [x] Atualização de Dados com PUT e PATCH
 - [x] Inserção em Massa (Bulk Insert)
 - [x] Proteção de Rotas com Laravel Sanctum
-- [] Autorização de Requisições com Habilidades de Token
+- [x] Autorização de Requisições com Habilidades de Token
 
 ## 🚧 Em desenvolvimento
 
