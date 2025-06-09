@@ -33,7 +33,7 @@ A aplicação foi desenvolvida com os seguintes objetivos:
 - [x] Inclusão de Dados Relacionados
 - [x] Criação de Recursos com Requisições POST
 - [x] Atualização de Dados com PUT e PATCH
-- [] Inserção em Massa (Bulk Insert)
+- [x] Inserção em Massa (Bulk Insert)
 - [] Proteção de Rotas com Laravel Sanctum
 - [] Autorização de Requisições com Habilidades de Token
 
